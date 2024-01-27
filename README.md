@@ -1,6 +1,6 @@
 # E-CommerceWebsite
  A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
- 
+ These are the different pages of this E-Commerce Website:
  
  
 ### Home page
