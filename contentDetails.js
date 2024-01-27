@@ -20,7 +20,6 @@ function dynamicContentDetails(ob)
 
     let imgTag = document.createElement('img')
      imgTag.id = 'imgDetails'
-     //imgTag.id = ob.photos
      imgTag.src = ob.preview
 
     imageSectionDiv.appendChild(imgTag)
